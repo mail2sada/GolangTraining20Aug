@@ -1,0 +1,4 @@
+1. Declaration of arrays (var, sdo)
+2. Intialization of arrays (literal and positional Intialization, ellipses(...))
+3. compared arrays (arrays of different length are diffrent types)
+4. iterators (iterators fetch values not reference, any change made to the values will not affect original array)
