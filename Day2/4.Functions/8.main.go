@@ -8,4 +8,6 @@ func main() {
 	func() {
 		fmt.Println("Hello world!!!")
 	}()
+
+	
 }

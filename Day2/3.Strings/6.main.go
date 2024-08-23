@@ -10,4 +10,5 @@ func main() {
 	s1 := "world"
 
 	s = s + s1
+	
 }
