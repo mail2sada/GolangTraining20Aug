@@ -1,0 +1,110 @@
+Important resources and tutorials
+Section 1: Go Programming languages
+
+https://www.geeksforgeeks.org/golang/?ref=lbp
+
+Deep dive data structures in Golang (Arrays, Slices, Maps, Structs, Interfaces) – Practice programs
+
+Integrate pProfs for programs you write - https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
+
+https://www.golangprograms.com/basic-programs.html (Execute every single program here)
+
+https://golangbyexample.com/golang-comprehensive-tutorial/
+
+https://golongwithgolang.com/when-should-you-use-pointers-in-go
+
+https://golongwithgolang.com/thread-safety-in-golang
+
+https://golongwithgolang.com/the-glorious-nethttp-go-module-1
+
+https://www.geeksforgeeks.org/how-to-use-go-with-mysql/
+
+Section 2: Go Libraries
+
+Goroutines in Golang
+
+https://www.golangprograms.com/goroutines.html
+
+https://www.digitalocean.com/community/tutorials/how-to-run-multiple-functions-concurrently-in-go
+
+https://www.golangprograms.com/go-language/channels.html
+
+https://www.golangprograms.com/go-language/concurrency.html
+
+https://blog.logrocket.com/concurrency-patterns-golang-waitgroups-goroutines/#:~:text=Golang%20provides%20goroutines%20to%20support,of%20stack%20space%20to%20initialize.
+
+GORM in Golang
+
+https://gorm.io/docs/index.html
+
+https://www.mindbowser.com/golang-go-with-gorm/
+
+https://towardsdev.com/introduction-to-orm-using-gorm-in-golang-d1936a45ffdb
+
+https://golangdocs.com/gorm-golang-orm-package
+
+https://www.youtube.com/watch?v=dpx6hpr-wE8
+
+Go Gin
+
+https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin
+
+https://blog.logrocket.com/building-microservices-go-gin/
+
+https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/
+
+Golang Mux Router
+
+https://gowebexamples.com/routes-using-gorilla-mux/
+
+https://golangdocs.com/golang-mux-router
+
+https://medium.com/geekculture/develop-rest-apis-in-go-using-gorilla-mux-5869b2179a18
+
+https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
+
+https://www.golangprograms.com/goroutines-and-channels-example.html
+
+Section 3: Caching and Data streaming tools
+
+Caching
+
+https://www.geeksforgeeks.org/what-is-the-caching-mechanism/
+
+https://medium.datadriveninvestor.com/all-things-caching-use-cases-benefits-strategies-choosing-a-caching-technology-exploring-fa6c1f2e93aa
+
+Golang and caching mechanism
+
+https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/
+
+https://www.mailgun.com/blog/it-and-engineering/golangs-superior-cache-solution-memcached-redis/
+
+https://github.com/mailgun/groupcache
+
+https://stackoverflow.com/questions/31389484/how-does-groupcache-in-go-compare-to-redis-and-memcached
+
+https://medium.com/@shreyanshsinha/thundering-herd-problem-cache-stampede-187a7b2f6cf7
+
+Redis (Prerequisite: Well versed with Data structures)
+
+https://www.youtube.com/watch?v=Qu5gX2uOaL8
+
+https://tutorialedge.net/golang/go-redis-tutorial/
+
+https://github.com/gomodule/redigo
+
+KAFKA
+
+https://www.tutorialspoint.com/apache_kafka/apache_kafka_introduction.htm
+
+https://www.sohamkamani.com/golang/working-with-kafka/
+
+https://github.com/confluentinc/confluent-kafka-go
+
+Videos:
+
+https://www.youtube.com/watch?v=jFfo23yIWac
+
+https://youtu.be/YS4e4q9oBaU
+
+Logs: https://www.honeybadger.io/blog/golang-logging/ https://www.section.io/engineering-education/how-to-perform-logging-for-golang-applications/ https://appdividend.com/2022/10/25/golang-log/
