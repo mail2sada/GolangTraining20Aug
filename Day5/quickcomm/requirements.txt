@@ -1,0 +1,56 @@
+1. Quick commerce is e-commerce application
+2. maintains a list of products  -> products := Get list of products, Get a specific product
+3. maintains a list of customers -> customers := Post, Put 
+4. facilitates shopping and billing -> shopping:- Post {products and customer additional information}
+5. all the data is store in memory
+6. All data would be maintained as json
+
+
+Products 
+{
+    "id" : 1,
+    "name": "name"
+    "description": "this is a cool product"
+    "price": 10000
+    "Category": "mobile"
+}
+
+Customer 
+{
+    "id" :1,
+    "name": "Mayur",
+    "contact": "9191919191",
+    "email" : "abc@xyz.com"
+    "Address" :[
+        {
+            "City": "Bangalore",
+            "Pincode":560102
+        },
+        {
+            "City": "Dharwad",
+            "Pincode":580007
+        }
+    ]
+}
+
+Transaction 
+{
+    "tid" : 1,
+    "tdate" : "10/10/2024:10:10:10"
+    "cart" :[
+        {
+            "pid": 1,
+            "quantity": 10,
+            "price": 10000,
+            "tax" : 100
+            "discounts" :0
+
+        }
+    ],
+    "cid" : 1,
+    "shipping_address" : Address,
+    "billing_address" : Address2,
+    "total:" : 10000,
+    "GST":  
+}
+

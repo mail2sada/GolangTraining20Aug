@@ -28,6 +28,7 @@ func main() {
 }
 
 func handleConnection(conn net.Conn) {
+	defer conn.Close()
 	for {
 		data := make([]byte, 1024, 1024)
 		n, err := conn.Read(data)
@@ -44,5 +45,6 @@ func handleConnection(conn net.Conn) {
 		fmt.Println(n, "bytes written")
 
 		fmt.Println(string(data))
+
 	}
 }
