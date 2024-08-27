@@ -16,7 +16,7 @@ func main() {
 		select {
 		case a := <-t1.C:
 			fmt.Println("Ticker1 ", a)
-		case a:=<-t1.C
+			
 		case a := <-t2.C:
 			fmt.Println("Ticker2 ", a)
 		case a := <-t3.C:
